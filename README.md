@@ -1,2 +1,2 @@
-# log
-A generic log tool
+# logging
+A generic logging tool
